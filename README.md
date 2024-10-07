@@ -5,10 +5,12 @@ We are a community of linguists based in Asia, meeting (almost) weekly to presen
 Meeting dates are scheduled at the begining of each semester. For Fall 2024, we are meeting on Friday evenings or Saturday mornings. Each week's speaker is responsible for arranging an online meeting room for their session.  
 
 
-#### Oct 12 9am (BJT) 
-LIU Mingming (Tsinghua University) <br>
+#### Oct 12 Sat 
+Time: 9am (BJT) <br>
+Speaker: LIU Mingming (Tsinghua University) <br>
 Topic: Mandarin HAISHI
 
-#### Sept 27 7pm (BJT) 
-QIU Minghui (Zhejiang University) & LI Xuping (Zhejiang University) <br>
+#### Sept 27 Fri 
+Time: 7pm (BJT) <br>
+Speaker: QIU Minghui (Zhejiang University) & LI Xuping (Zhejiang University) <br>
 Topic: Mandarin DUO

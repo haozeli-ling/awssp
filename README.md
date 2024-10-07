@@ -6,9 +6,9 @@ Meeting dates are scheduled at the begining of each semester. For Fall 2024, we 
 
 
 #### Oct 12 9am (BJT) 
-LIU Mingming (Tsinghua University)
+LIU Mingming (Tsinghua University) <br>
 Topic: Mandarin HAISHI
 
 #### Sept 27 7pm (BJT) 
-QIU Minghui (Zhejiang University) & LI Xuping (Zhejiang University)
+QIU Minghui (Zhejiang University) & LI Xuping (Zhejiang University) <br>
 Topic: Mandarin DUO

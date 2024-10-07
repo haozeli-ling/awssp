@@ -14,12 +14,27 @@ If you are interested in sharing your research with us, please feel free to reac
 
 ### Fall 2024
 
+#### Nov 2 Sat
+Time: 9am <br>
+Speaker: HE Yuyin <br>
+Topic: 
+
+#### Oct 25 Fri
+Time: TBA <br>
+Speaker: CAO Yaqing <br>
+Topic: TBA
+
+#### Oct 18 Fri
+Time: TBA <br>
+Speaker: ZHANG Linmin <br>
+Topic: TBA 
+
 #### Oct 12 Sat 
-Time: 9am (BJT) <br>
+Time: 9am <br>
 Speaker: LIU Mingming (Tsinghua University) <br>
 Topic: Mandarin HAISHI
 
 #### Sept 27 Fri 
-Time: 7pm (BJT) <br>
+Time: 7pm <br>
 Speaker: QIU Minghui (Zhejiang University) & LI Xuping (Zhejiang University) <br>
 Topic: Mandarin DUO

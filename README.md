@@ -14,27 +14,22 @@ If you are interested in sharing your research with us or attending the online s
 
 ### Fall 2024
 
-#### Nov 2 Sat
-Time: 9am <br>
+#### Nov 2 9am (Sat)
 Speaker: HE Yuyin (Beijing Language and Culture University) <br>
-Topic: 
+Topic:  <br>
 
-#### Oct 25 Fri
-Time: TBA <br>
+#### Oct 25 7pm (Fri)
 Speaker: CAO Yaqing (UC Santa Cruz) <br>
 Topic: TBA
 
-#### Oct 18 Fri
-Time: TBA <br>
+#### Oct 18 7pm (Fri)
 Speaker: ZHANG Linmin (NYU Shanghai) <br>
 Topic: TBA 
 
-#### Oct 12 Sat 
-Time: 9am <br>
+#### Oct 12 9am (Sat) 
 Speaker: LIU Mingming (Tsinghua University) <br>
 Topic: Mandarin HAISHI
 
-#### Sept 27 Fri 
-Time: 7pm <br>
+#### Sept 27 7pm (Fri) 
 Speaker: QIU Minghui (Zhejiang University) & LI Xuping (Zhejiang University) <br>
 Topic: Mandarin DUO

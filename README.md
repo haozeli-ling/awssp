@@ -4,6 +4,12 @@ We are a community of linguists based in Asia, meeting (almost) weekly to presen
 
 Meeting dates are scheduled at the begining of each semester. For Fall 2024, we are meeting on Friday evenings or Saturday mornings. Each week's speaker is responsible for arranging an online meeting room for their session.  
 
+### Orgnazers 
+[XU Beibei](https://billyxu1983.wordpress.com/) Huazhong Agricultural University <br>
+[LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  <br>
+[ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai
+
+
 
 #### Oct 12 Sat 
 Time: 9am (BJT) <br>

@@ -16,17 +16,17 @@ If you are interested in sharing your research with us, please feel free to reac
 
 #### Nov 2 Sat
 Time: 9am <br>
-Speaker: HE Yuyin <br>
+Speaker: HE Yuyin (Beijing Language and Culture University) <br>
 Topic: 
 
 #### Oct 25 Fri
 Time: TBA <br>
-Speaker: CAO Yaqing <br>
+Speaker: CAO Yaqing (UC Santa Cruz) <br>
 Topic: TBA
 
 #### Oct 18 Fri
 Time: TBA <br>
-Speaker: ZHANG Linmin <br>
+Speaker: ZHANG Linmin (NYU Shanghai) <br>
 Topic: TBA 
 
 #### Oct 12 Sat 

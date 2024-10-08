@@ -6,7 +6,7 @@ Meeting dates are scheduled at the begining of each semester. For Fall 2024, we 
 
 If you are interested in sharing your research with us or attending the online sessions, please feel free to reach out to any of the organizers listed below. 
 
-### Orgnazers 
+### Organizers 
 [XU Beibei](https://billyxu1983.wordpress.com/) Huazhong Agricultural University <br>
 [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai <br>
 [LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  

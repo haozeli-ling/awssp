@@ -36,5 +36,7 @@ Topic: Mandarin DUO
 
 ## Institutions and their acronyms 
 
-| --------- | ---------- | ----------- |
-| Huazhong Agricultural University (HAU) |  New York University Shanghai (NYU Shanghai) | Nanyang Technological University (NTU) |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |

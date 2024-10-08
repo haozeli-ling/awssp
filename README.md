@@ -33,3 +33,8 @@ Topic: HAISHI and alternative questions in Mandarin
 #### Sept 27 7pm (Fri) 
 Speaker: QIU Minghui (Zhejiang University) & [LI Xuping](https://person.zju.edu.cn/xp#0) (Zhejiang University) <br>
 Topic: Mandarin DUO
+
+## Institutions and their acronyms 
+
+| --------- | ---------- | ----------- |
+| Huazhong Agricultural University (HAU) |  New York University Shanghai (NYU Shanghai) | Nanyang Technological University (NTU) |

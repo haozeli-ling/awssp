@@ -8,8 +8,8 @@ If you are interested in sharing your research with us or attending the online s
 
 ### Orgnazers 
 [XU Beibei](https://billyxu1983.wordpress.com/) Huazhong Agricultural University <br>
-[LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  <br>
-[ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai
+[ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai <br>
+[LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  
 
 
 ### Fall 2024

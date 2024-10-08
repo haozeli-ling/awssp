@@ -2,7 +2,7 @@
 
 We are a community of linguists based in Asia, meeting (almost) weekly to present and discuss research on the syntax, semantics, and/or pragmatics of Asian languages. Anyone with an interest in SSP or Asian languages is welcomed.  
 
-Meeting dates are scheduled at the begining of each semester. For Fall 2024, we are meeting on Friday evenings or Saturday mornings. Each week's speaker is responsible for arranging an online meeting room for their session. Please note that all times are in UTC+8.  
+The online workshop is a continued effort of International Conference on the Frontiers of Formal Linguistics held at Huazhong Agricultural University in 2024. Meeting dates are scheduled at the begining of each semester. For Fall 2024, we are meeting on Friday evenings or Saturday mornings. Each week's speaker is responsible for arranging an online meeting room for their session. Please note that all times are in UTC+8.  
 
 If you are interested in sharing your research with us or attending the online sessions, please feel free to reach out to any of the organizers listed below. 
 

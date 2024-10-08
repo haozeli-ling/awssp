@@ -36,7 +36,6 @@ Topic: Mandarin DUO
 
 ## Institutions and their acronyms 
 
-| Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |

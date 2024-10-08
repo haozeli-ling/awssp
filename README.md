@@ -38,5 +38,5 @@ Topic: Mandarin DUO
 
 | Institution      | Acronym | Location     |
 | :---        |    :----:   |    :---:      |
-|   Huazhong Agricultural University    | HAU       | Wuhan, China   |
-|  New York University Shanghai   | NYU Shanghai        | Shanghai, Chia      |
+|   Huazhong Agricultural University    | HZAU       | Wuhan, China   |
+|  New York University Shanghai   | NYU Shanghai        | Shanghai, Chima      |

@@ -28,7 +28,7 @@ Topic: TBA
 
 #### Oct 12 9am (Sat) 
 Speaker: HE Rong (Tsinghua University) & [LIU Mingming](https://markliu02.github.io/) (Tsinghua University) <br>
-Topic: Mandarin HAISHI
+Topic: HAISHI and alternative questions in Mandarin
 
 #### Sept 27 7pm (Fri) 
 Speaker: QIU Minghui (Zhejiang University) & [LI Xuping](https://person.zju.edu.cn/xp#0) (Zhejiang University) <br>

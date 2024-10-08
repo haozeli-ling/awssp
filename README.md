@@ -36,4 +36,7 @@ Topic: Mandarin DUO
 
 ## Institutions and their acronyms 
 
-| Syntax      | Description | 
+| Institution      | Acronym | Location     |
+| :---        |    :----:   |    :---:      |
+|   Huazhong Agricultural University    | HAU       | Wuhan, China   |
+|  New York University Shanghai   | NYU Shanghai        | Shanghai, Chia      |

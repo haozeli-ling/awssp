@@ -27,7 +27,7 @@ Speaker: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shangha
 Topic: TBA 
 
 #### Oct 12 9am (Sat) 
-Speaker: [LIU Mingming](https://markliu02.github.io/) (Tsinghua University) <br>
+Speaker: HE Rong (Tsinghua University) & [LIU Mingming](https://markliu02.github.io/) (Tsinghua University) <br>
 Topic: Mandarin HAISHI
 
 #### Sept 27 7pm (Fri) 

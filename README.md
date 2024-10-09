@@ -41,3 +41,10 @@ Topic: Mandarin DUO
 | :---        |    :----:   |    :---:      |
 |   Huazhong Agricultural University    | HZAU       | Wuhan, China   |
 |  New York University Shanghai   | NYU Shanghai        | Shanghai, China      |
+| Nanyang Technological University | NTU | Singapore |
+| Zhejiang University | ZJU | Hanzhou, China |
+| Tsinghua University | Tsinghua | Beijing, China |
+| University of California Santa Cruz | UCSC | Santa Cruz, USA |
+| Beijing Language and Culture University | BLCU | Beijing, China | 
+| Guangdong University of Foreign Studies | GDUFS | Guangzhou, China | 
+| Fudan University | Fudan | Shanghai, China | 

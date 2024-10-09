@@ -38,7 +38,7 @@ Topic: Mandarin DUO
 ## Institutions and their acronyms 
 
 | Institution      | Acronym | Location     |
-| :---        |    :----:   |    :---:      |
+| :---:        |    :----:   |    :---:      |
 |   Huazhong Agricultural University    | HZAU       | Wuhan, China   |
 |  New York University Shanghai   | NYU Shanghai        | Shanghai, China      |
 | Nanyang Technological University | NTU | Singapore |

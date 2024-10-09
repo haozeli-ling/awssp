@@ -27,8 +27,10 @@ Speaker: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shangha
 Topic: TBA 
 
 #### Oct 12 9am (Sat) 
-Speaker: HE Rong (Tsinghua University) & [LIU Mingming](https://markliu02.github.io/) (Tsinghua University) <br>
+Speaker: HE Rong (Tsinghua University) & [LIU Mingming](https://markliu02.github.io/) (Tsinghua University) 
+
 Topic: HAISHI and alternative questions in Mandarin
+
 Abstract: It is widely assumed that Mandarin has two disjunctors huozhe and haishi, the latter used exclusively in questions. We challenge the standard view by proposing that haishi is not an interrogative disjunctor but the same adverb used in sentences like 我们还是去颐和园吧 'Let's go to the Summer Palace instead'. Specifically, we argue that both the hai and shi are semantically active, the former contributing additivity while the latter exhaustivity. As a result, when used in a juxtaposition of two sentences, haishi gives rise to a mutual exclusivity presupposition, and requires the juxtaposition be interpreted as a set, which is just the denotation of an alternative question.
 
 #### Sept 27 7pm (Fri) 

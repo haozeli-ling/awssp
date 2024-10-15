@@ -24,7 +24,7 @@ Topic: TBA
 
 #### Oct 19 10am (Sat)
 **Speaker**: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>
-**Topic**: A Degree-QUD Based Perspective on Informativeness
+**Topic**: A Degree-QUD Based Perspective on Informativeness <br>
 **Abstract**: In this talk, I propose a new perspective on informativeness. Informativeness is usually defined based on entailment. "Mary read 3 books" entails and is thus more informative than "Mary read 2 books". However, "Mary read exactly 3 books" does not entail "Mary read exactly 2 books". Yet in a context where we are interested in the issue of how hard-working Mary is, "Mary read exactly 3 books" can indicate a hard-working degree higher than "Mary read exactly 2 books" does. Thus, if Mary is as hard-working as indicated by the former sentence, she is definitely as hard-working as indicated by the latter sentence. In other words, under a relevant degree QUD, the former sentence shows a higher level of informativeness than the latter. I use this new, degree-QUD based perspective on informativeness to analyze three kinds of natural language phenomena: (i) the use of English "even", (ii) cumulative-reading sentences that address measurements along multiple dimensions, and (iii) multi-head comparatives. I show that the interpretation of all these phenomena assume a context-relevant, underlying degree QUD: the utterance, compared with its alternatives, represents maximal informativeness in addressing this underlying degree QUD.
 
 #### Oct 12 9am (Sat) 

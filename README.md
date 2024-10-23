@@ -19,8 +19,10 @@ Speaker: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Cultur
 Topic:  <br>
 
 #### Oct 25 7pm (Fri)
-Speaker: [CAO Yaqing](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) <br>
-Topic: TBA
+**Speaker**: [CAO Yaqing](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) <br>
+**Topic**: Scope Reconstruction in Head Movements as Featural Valuations <br>
+**Abstract**: This paper proposes that scope in head movement is by-product of agree. Scope of modals with respect to negation in English is determined in the place where ALL their polarity features are checked and valued. The empirical pattern addressed here is that the modals like need and can in John need/cannot come are interpreted below not but modals like must and should in John must/should not come are interpreted above not. The analysis proposed a featural geometry framework which implements Iatridou & Zeijlstra’s (2013) proposal of modal’s polarity sensitivity and Szabolci (2004)’s PPI featural specifications in the Upward Agree (Bjorkman & Zeijlstra, 2019). To be specific, NPI modals like need is interpreted below negation because it encodes one [uNeg:_] feature, which is checked by the [iNeg:NEG] feature on negation.  Neutral modals like can is also interpreted low because it encodes one polarity [uΣ:_] feature, which is checked by the implicated [iΣ:NEG] feature on negation in featural geometry. PPI modals like must/should encode two [uNeg:_] features, which are checked by a higher [iNeg] operator and a lower [iNeg:NEG] on negation. Thus, it is only in the high position that agree finished checking all unvalued features, thus PPI modals are interpreted high and above negation. This proposal suggests that not only head movements of modals are syntax proper, but LF also has access to the location where a feature is checked and valued, paralleling to phrasal A- and A’-movements.
+
 
 #### Oct 19 10am (Sat)
 **Speaker**: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>

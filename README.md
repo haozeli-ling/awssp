@@ -14,6 +14,11 @@ If you are interested in sharing your research with us or attending the online s
 
 ## Fall 2024
 
+### Nov 15 10 am (Sat)
+Speaker: [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
+Topic: Relative menasurement and scope <br>
+
+
 #### Nov 2 9am (Sat)
 Speaker: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Culture University) <br>
 Topic:  <br>

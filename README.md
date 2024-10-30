@@ -18,7 +18,11 @@ If you are interested in sharing your research with us or attending the online s
 Speaker: [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
 Topic: Relative menasurement and scope <br>
 
-#### Nov 2 9am (Sat)
+#### Nov 9 10 am (Sat)
+Speaker: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) <br>
+Topic: Relative menasurement and scope <br>
+
+#### Nov 2 10 am (Sat)
 Speaker: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Culture University) <br>
 Topic:  <br>
 
@@ -54,4 +58,5 @@ Topic: Mandarin DUO
 | University of California Santa Cruz | UCSC | Santa Cruz, USA |
 | Beijing Language and Culture University | BLCU | Beijing, China | 
 | Guangdong University of Foreign Studies | GDUFS | Guangzhou, China | 
-| Fudan University | Fudan | Shanghai, China | 
+| Fudan University | Fudan | Shanghai, China |
+| Beijing Foreign Studies University | BFSU | Beijing, China | 

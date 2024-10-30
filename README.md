@@ -20,7 +20,7 @@ Topic: Relative menasurement and scope <br>
 
 #### Nov 9 10 am (Sat)
 Speaker: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) <br>
-Topic: Relative menasurement and scope <br>
+Topic: Causaulity, modality, and contextual argument interpretation <br>
 
 #### Nov 2 10 am (Sat)
 Speaker: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Culture University) <br>

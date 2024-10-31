@@ -23,8 +23,8 @@ Speaker: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU
 Topic: Causaulity, modality, and contextual argument interpretation <br>
 
 #### Nov 2 10 am (Sat)
-Speaker: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Culture University) <br>
-Topic:  <br>
+**Speaker**: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Culture University) <br>
+**Topic**: This talk recategorizes some of the significant properties argued to reflect the finiteness distinction in Mandarin into the scale of (in)dependency, complexity, and transparency. I will then demonstrate that clausal complementation in Mandarin also follows the Implicational Complementation Hierarchy (ICH) and how most of the properties argued to be finiteness relevant can be accounted for within a synthesis model of complementation (Wurmbrand and Lohninger 2023). Following a brief review of the finiteness debate in Mandarin, I suggest that the postulation of linking tense to finiteness in Mandarin (A. Li 1985, 1990, Sybesma 2007, T.-H. Lin 2015, He 2020, J. Huang 2022 etc.) is not only reasonable given independent evidence supporting a covert tense in the language, but also productive since the distribution of future modals and overt embedded subjects can be properly addressed with little theoretical cost. I will then demonstrate where Mandarin fits in the cross-linguistic picture regarding finiteness coding and show that the finiteness preference in Mandarin complementation also aligns with ICH. 
 
 #### Oct 26 10 am (Sat)
 **Speaker**: [CAO Yaqing](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) <br>

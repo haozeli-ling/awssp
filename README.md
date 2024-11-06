@@ -10,7 +10,7 @@ If you are interested in sharing your research with us or attending the online s
 [XU Beibei](http://www.billyxu83.com/) Huazhong Agricultural University <br>
 [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai <br>
 [LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  
-Qiu Minghui Zhejiang University
+QIU Minghui Zhejiang University
 
 
 ## Fall 2024

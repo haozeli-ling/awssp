@@ -10,6 +10,7 @@ If you are interested in sharing your research with us or attending the online s
 [XU Beibei](http://www.billyxu83.com/) Huazhong Agricultural University <br>
 [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai <br>
 [LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  
+Qiu Minghui Zhejiang University
 
 
 ## Fall 2024
@@ -19,8 +20,9 @@ Speaker: [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
 Topic: Relative menasurement and scope <br>
 
 #### Nov 9 10 am (Sat)
-Speaker: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) <br>
-Topic: Causaulity, modality, and contextual argument interpretation <br>
+**Speaker**: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) <br>
+**Topic**: Causaulity, modality, and contextual argument interpretation <br>
+**Abstract**: This talk addresses the puzzle that the animate causees across five Teochew periphrastic causatives demonstrate different thematic interpretation patterns, even when the embedded predicates are the same. I argue that both the lexical and syntactic listing approach cannot solve the puzzle. The alternative contextual approach is more favorable. Based on fieldwork data collected from 30 Teochew consultants (IRB approval from Georgetown), I propose a modal analysis to account for the complex causal relations featuring multidimensionality, which the monolithic CAUSE operator fails to capture. I argue for a two-step post-syntactic contextualization mechanism at the LF for the interpretation of a shared argument fed by the overall eventuality, showing that it can help account for the diverse causee interpretations, including its elusive agentive nature. Building on insights from cognitive philosophy, this study sheds light on two of the most important topics in cognitive science, i.e., causation and agency, and on the linking issue between syntax and semantics in argument interpretation with a focus on the most understudied external arguments. In addition, this study provides implications for two of the other major topics on argument structure, i.e., argument introduction and argument licensing, as well as the under-explored phasehood or domain sensitivity at LF.
 
 #### Nov 2 9:30 am (Sat)
 **Speaker**: [HE Yuyin](https://yuyinhe.wordpress.com/) (Beijing Language and Culture University) <br>

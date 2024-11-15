@@ -15,7 +15,7 @@ QIU Minghui Zhejiang University
 
 ## Fall 2024
 
-#### Nov 15 10 am (Sat)
+#### ~~Nov 16 10 am (Sat)~~ (Cancelled)
 Speaker: [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
 Topic: Relative menasurement and scope <br>
 

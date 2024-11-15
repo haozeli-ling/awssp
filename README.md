@@ -12,6 +12,9 @@ If you are interested in sharing your research with us or attending the online s
 [LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  
 QIU Minghui Zhejiang University
 
+## Spring 2025
+
+**TBD**
 
 ## Fall 2024
 

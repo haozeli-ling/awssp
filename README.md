@@ -14,13 +14,26 @@ QIU Minghui Zhejiang University
 
 ## Spring 2025
 
-**TBD** <br>
+### March 22 10 am
+
+**Speaker**: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>
+**Topic**: Comparatives and additivity <br>
+**Abstract**: Comparatives (e.g., "Lucy is taller than Mary") and additivity phenomena (e.g., the use of "another" in "Lucy met another girl, Mary") used to be studied separately within natural language semantics. According to the canonical view, a comparative essentially relates two degree values, and the semantic contribution of English comparative morpheme "-er/more" is the relation ">" (See e.g., Beck 2011 for a review). This talk addresses an alternative view: comparison means additivity along a scale (see e.g, Zhang & Ling 2021, as well as Greenberg 2010, Thomas 2010). For example, "Lucy is taller than Mary" means "Lucy's height involves an increase based on Mary's height". I will also discuss (i) how this new perspective sheds light on various English constructions involving the use of comparative morpheme "-er/more", (ii) a QUD-based approach to the notion of additivity, and (iii) some new thoughts on the difference between languages with vs. without "-er/more"-like comparative morphemes.
+
+### March 15 10 am
+
+**Speaker**: [CAO Yaqing](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) and [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
+**Topic**: Negation, Ability, and Causation: How to derive (anti-)actuality entailment <br>
+**Abstract**: 
+
+### March 1 10 am
+
+**Speaker**: HU Yanjie (GDUFS) <br>
+**Topic**: Gapping in Chinese: A revisit <br>
+**Abstract**: 
+
 
 ## Fall 2024
-
-#### ~~Nov 16 10 am (Sat)~~ (Cancelled)
-Speaker: [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
-Topic: Relative menasurement and scope <br>
 
 #### Nov 9 10 am (Sat)
 **Speaker**: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) <br>

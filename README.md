@@ -14,7 +14,13 @@ QIU Minghui Zhejiang University
 
 ## Spring 2025
 
-### March 22 10 am
+### April 12 10 am
+
+**Speaker**: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) and BIGGS Alison <br>
+**Topic**: Interpreting adjectives: Insights from adjective classifiers <br>
+**Abstract**: A fundamental characteristic of vague gradable adjectives is their indeterminacy: in John is tall, what is considered truthfully tall depends on the (implicit) standard against which the positive adjective is compared. This study identifies a previously unrecognized type of comparison-class-setting morpheme in the Shantou variety of Teochew (Southern Min) that has grammaticalized from the classifier system and is used in the adjectival domain. We argue this morpheme helps set the value of a positive standard. Interestingly, when considered alongside a similar structure in Mandarin and the well-documented English for-phrase, this phenomenon reveals a cross-linguistic contrast in how vagueness is reduced—through conventional implicature, subjectivity, or presupposition. After proposing a primary lexical entry for these adjective classifiers in Shantou Teochew, we also observe an intriguing pattern in their composition with modified adjectives, specifically the compositional contrasts between adjective classifiers when combined with big/small versus other adjectives. Previous work has argued that the size adjective big can contribute a dimensionless degree reading, in contrast to other dimension adjectives like long. For example, in phrases like big idiot, big can be an adnominal degree modifier asserting that the properties of the nominal predicate idiot hold to a high degree. A similar proposal can be made for verbal phrases such as think big. In the second half of the talk, we develop a new argument for dimensionless degree functions of the size adjectives big and small based on the overt morphosyntax and compositional dimension-matching patterns of classifier-marked adjective structures in Shantou Teochew, and propose a revised lexical semantic analysis for these adjective classifiers. We further emphasize that the fact that Shantou Teochew big and small adjectives contribute dimensionless degree readings in nominal, verbal and adjectival contexts offers a new kind of support for views that measurement is not category-unique.
+
+### March 29 10 am
 
 **Speaker**: CHU Lei (Fudan) and FENG Yuli (Fudan) <br>
 **Topic**: Majority Quantification in English and Chinese: A Comparative Study on Most, Dabufen, and Majority <br>
@@ -22,6 +28,7 @@ QIU Minghui Zhejiang University
 investigated by means of a corpus analysis. The comparison of the three majority expressions centers around their phrasal constructions, syntactic distribution, and
 interpretational flexibility. Based on the empirical data, we argue that although dabufen and majority share characteristics with most in proportional meanings, they differ from most in the following three aspects. First, syntactically, dabufen and majority pattern with weak quantifiers or predicational elements, rather than the strong quantifier most. Second, semantically, dabufen and majority license more flexible interpretations than most when they occur for proportions below 50%. Third, morphologically, dabufen and majority, unlike most, do not encode superlativity. Given these contrasts, we introduce a comparative adjectival approach to account for the predicative nature, interpretational flexibility, and non-superlative morphology of dabufen and majority, which complements the existing Generalized Quantifier Theory and superlative semantics employed in interpreting most (cf. Barwise & Cooper 1981; Hackl 2009; Dobrovie-Sorin & Giurgea 2021). In this talk, we will also sketch out (i) a revised version of Hackl’s superlative adjectival analysis of most, and (ii) how other majority expressions in Chinese (e.g., daduoshu and daban) can be analyzed in the same vein of our adjectival analysis.
 
+### March 29 10 am
 
 **Speaker**: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>
 **Topic**: Comparatives and additivity <br>

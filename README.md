@@ -28,7 +28,7 @@ QIU Minghui Zhejiang University
 investigated by means of a corpus analysis. The comparison of the three majority expressions centers around their phrasal constructions, syntactic distribution, and
 interpretational flexibility. Based on the empirical data, we argue that although dabufen and majority share characteristics with most in proportional meanings, they differ from most in the following three aspects. First, syntactically, dabufen and majority pattern with weak quantifiers or predicational elements, rather than the strong quantifier most. Second, semantically, dabufen and majority license more flexible interpretations than most when they occur for proportions below 50%. Third, morphologically, dabufen and majority, unlike most, do not encode superlativity. Given these contrasts, we introduce a comparative adjectival approach to account for the predicative nature, interpretational flexibility, and non-superlative morphology of dabufen and majority, which complements the existing Generalized Quantifier Theory and superlative semantics employed in interpreting most (cf. Barwise & Cooper 1981; Hackl 2009; Dobrovie-Sorin & Giurgea 2021). In this talk, we will also sketch out (i) a revised version of Hackl’s superlative adjectival analysis of most, and (ii) how other majority expressions in Chinese (e.g., daduoshu and daban) can be analyzed in the same vein of our adjectival analysis.
 
-### March 29 10 am
+### March 22 10 am
 
 **Speaker**: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>
 **Topic**: Comparatives and additivity <br>

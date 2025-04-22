@@ -16,7 +16,7 @@ QIU Minghui Zhejiang University
 
 ### April 19 10 am 
 
-**Speaker**: LI Yunbing <br>
+**Speaker**: LI Yunbing (SYSU) <br>
 **Topic**: A simplified argument from counterfactual skepticism to future skepticism <br>
 
 
@@ -89,8 +89,8 @@ Topic: Mandarin DUO
 
 | Institution      | Acronym | Location     |
 | :---:        |    :----:   |    :---:      |
-|   Huazhong Agricultural University    | HZAU       | Wuhan, China   |
-|  New York University Shanghai   | NYU Shanghai        | Shanghai, China      |
+|  Huazhong Agricultural University    | HZAU       | Wuhan, China   |
+|  New York University Shanghai   | NYU Shanghai    | Shanghai, China      |
 | Nanyang Technological University | NTU | Singapore |
 | Zhejiang University | ZJU | Hangzhou, China |
 | Tsinghua University | Tsinghua | Beijing, China |
@@ -99,3 +99,4 @@ Topic: Mandarin DUO
 | Guangdong University of Foreign Studies | GDUFS | Guangzhou, China | 
 | Fudan University | Fudan | Shanghai, China |
 | Beijing Foreign Studies University | BFSU | Beijing, China | 
+| Sun Yat-sen University | SYSU | Guangzhou, China |

@@ -14,6 +14,12 @@ QIU Minghui Zhejiang University
 
 ## Spring 2025
 
+### April 19 10 am 
+
+**Speaker**: LI Yunbing <br>
+**Topic**: A simplified argument from counterfactual skepticism to future skepticism <br>
+
+
 ### April 12 10 am
 
 **Speaker**: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) and [BIGGS Alison](https://www.alisonbiggs.com/) (McMaster) <br>

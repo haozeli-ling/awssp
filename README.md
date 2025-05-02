@@ -21,19 +21,19 @@ QIU Minghui Zhejiang University
 
 ### April 19 10 am 
 
-**Speaker**: LI Yunbing (SYSU) <br>
+**Speaker**: LI Yunbing | 李韵冰 (SYSU) <br>
 **Topic**: A simplified argument from counterfactual skepticism to future skepticism <br>
 
 
 ### April 12 10 am
 
-**Speaker**: [LUO Zhuosi](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) and [BIGGS Alison](https://www.alisonbiggs.com/) (McMaster) <br>
+**Speaker**: [LUO Zhuosi | 罗卓思](https://sites.google.com/georgetown.edu/zhuosi-luo/) (BFSU) and [BIGGS Alison](https://www.alisonbiggs.com/) (McMaster) <br>
 **Topic**: Interpreting adjectives: Insights from adjective classifiers <br>
 **Abstract**: A fundamental characteristic of vague gradable adjectives is their indeterminacy: in John is tall, what is considered truthfully tall depends on the (implicit) standard against which the positive adjective is compared. This study identifies a previously unrecognized type of comparison-class-setting morpheme in the Shantou variety of Teochew (Southern Min) that has grammaticalized from the classifier system and is used in the adjectival domain. We argue this morpheme helps set the value of a positive standard. Interestingly, when considered alongside a similar structure in Mandarin and the well-documented English for-phrase, this phenomenon reveals a cross-linguistic contrast in how vagueness is reduced—through conventional implicature, subjectivity, or presupposition. After proposing a primary lexical entry for these adjective classifiers in Shantou Teochew, we also observe an intriguing pattern in their composition with modified adjectives, specifically the compositional contrasts between adjective classifiers when combined with big/small versus other adjectives. Previous work has argued that the size adjective big can contribute a dimensionless degree reading, in contrast to other dimension adjectives like long. For example, in phrases like big idiot, big can be an adnominal degree modifier asserting that the properties of the nominal predicate idiot hold to a high degree. A similar proposal can be made for verbal phrases such as think big. In the second half of the talk, we develop a new argument for dimensionless degree functions of the size adjectives big and small based on the overt morphosyntax and compositional dimension-matching patterns of classifier-marked adjective structures in Shantou Teochew, and propose a revised lexical semantic analysis for these adjective classifiers. We further emphasize that the fact that Shantou Teochew big and small adjectives contribute dimensionless degree readings in nominal, verbal and adjectival contexts offers a new kind of support for views that measurement is not category-unique.
 
 ### March 29 10 am
 
-**Speaker**: CHU Lei (Fudan) and FENG Yuli (Fudan) <br>
+**Speaker**: CHU Lei | 储蕾 (Fudan) and FENG Yuli ｜ 冯予力 (Fudan) <br>
 **Topic**: Majority Quantification in English and Chinese: A Comparative Study on Most, Dabufen, and Majority <br>
 **Abstract**: This talk is concerned with how different majority expressions are used to express majority quantification in English and Chinese. In particular, we probe into the semantics of three cross-linguistically related majority expressions—most, dabufen, and majority, with their morpho-syntactic properties and semantic interpretations
 investigated by means of a corpus analysis. The comparison of the three majority expressions centers around their phrasal constructions, syntactic distribution, and
@@ -41,19 +41,19 @@ interpretational flexibility. Based on the empirical data, we argue that althoug
 
 ### March 22 10 am
 
-**Speaker**: [ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>
+**Speaker**: [ZHANG Linmin | 张琳敏](https://sites.google.com/site/zhanglinmin/) (NYU Shanghai) <br>
 **Topic**: Comparatives and additivity <br>
 **Abstract**: Comparatives (e.g., "Lucy is taller than Mary") and additivity phenomena (e.g., the use of "another" in "Lucy met another girl, Mary") used to be studied separately within natural language semantics. According to the canonical view, a comparative essentially relates two degree values, and the semantic contribution of English comparative morpheme "-er/more" is the relation ">" (See e.g., Beck 2011 for a review). This talk addresses an alternative view: comparison means additivity along a scale (see e.g, Zhang & Ling 2021, as well as Greenberg 2010, Thomas 2010). For example, "Lucy is taller than Mary" means "Lucy's height involves an increase based on Mary's height". I will also discuss (i) how this new perspective sheds light on various English constructions involving the use of comparative morpheme "-er/more", (ii) a QUD-based approach to the notion of additivity, and (iii) some new thoughts on the difference between languages with vs. without "-er/more"-like comparative morphemes.
 
 ### March 15 10 am
 
-**Speaker**: [CAO Yaqing](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) and [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
+**Speaker**: [CAO Yaqing | 曹亚晴](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) and [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
 **Topic**: Negation, Ability, and Causation: How to derive (anti-)actuality entailment <br>
 **Abstract**: 
 
 ### March 1 10 am
 
-**Speaker**: HU Yanjie (GDUFS) <br>
+**Speaker**: HU Yanjie ｜ 胡彦洁 (GDUFS) <br>
 **Topic**: Gapping in Chinese: A revisit <br>
 **Abstract**: 
 

@@ -7,10 +7,10 @@ The online workshop is a continued effort of International Conference on the Fro
 If you are interested in sharing your research with us or attending the online sessions, please feel free to reach out to any of the organizers listed below. 
 
 ## Organizers 
-[XU Beibei](http://www.billyxu83.com/) Huazhong Agricultural University <br>
-[ZHANG Linmin](https://sites.google.com/site/zhanglinmin/) New York University Shanghai <br>
-[LI Haoze](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  
-QIU Minghui Zhejiang University
+[XU Beibei｜徐贝贝](http://www.billyxu83.com/) Huazhong Agricultural University <br>
+[ZHANG Linmin｜张琳敏](https://sites.google.com/site/zhanglinmin/) New York University Shanghai <br>
+[LI Haoze｜李昊泽](https://haozeli-ling.github.io/haozeli/) Nanyang Technological University  
+QIU Minghui｜邱明辉 Zhejiang University
 
 ## Spring 2025
 

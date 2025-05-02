@@ -47,7 +47,7 @@ interpretational flexibility. Based on the empirical data, we argue that althoug
 
 ### March 15 10 am
 
-**Speaker**: [CAO Yaqing | 曹亚晴](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) and [LI Haoze](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
+**Speaker**: [CAO Yaqing | 曹亚晴](https://ycao.sites.ucsc.edu/) (UC Santa Cruz) and [LI Haoze｜李昊泽](https://haozeli-ling.github.io/haozeli/) (NTU) <br>
 **Topic**: Negation, Ability, and Causation: How to derive (anti-)actuality entailment <br>
 **Abstract**: 
 

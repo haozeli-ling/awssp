@@ -14,6 +14,11 @@ QIU Minghui Zhejiang University
 
 ## Spring 2025
 
+### May 10 10 am 
+
+**Speaker**: HAO Qi | 郝琦 (CNU) <br>
+**Topic**:  <br>
+
 ### April 19 10 am 
 
 **Speaker**: LI Yunbing (SYSU) <br>
@@ -100,3 +105,4 @@ Topic: Mandarin DUO
 | Fudan University | Fudan | Shanghai, China |
 | Beijing Foreign Studies University | BFSU | Beijing, China | 
 | Sun Yat-sen University | SYSU | Guangzhou, China |
+| Central Normal University | CNU | Beijing, China |

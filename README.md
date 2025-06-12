@@ -94,15 +94,15 @@ Topic: Mandarin DUO
 
 | Name| Institution      | Speciality | Location     |
 | :---: | :---:        |    :----:   |    :---:      |
-| XU Beibei|  Huazhong Agricultural University    | Bias, Modality | Wuhan, China   |
+| XU Beibei  |  Huazhong Agricultural University    | Bias, Modality | Wuhan, China   |
 | ZHANG Linmin|  New York University Shanghai   | Comparatives, Adjectives, Degree Semantics | Shanghai, China      |
 | LI Haoze| Nanyang Technological University | Questions, Focus, Dynamic Semantics | Singapore |
-| ZHANG Anqi| Nanking University | Aspects | Hangzhou, China |
-|| Tsinghua University | Tsinghua | Beijing, China |
-|| University of California Santa Cruz | UCSC | Santa Cruz, USA |
-|| Beijing Language and Culture University | BLCU | Beijing, China | 
-|| Guangdong University of Foreign Studies | GDUFS | Guangzhou, China | 
-|| Fudan University | Fudan | Shanghai, China |
-|| Beijing Foreign Studies University | BFSU | Beijing, China | 
-|| Sun Yat-sen University | SYSU | Guangzhou, China |
-|| Central Normal University | CNU | Beijing, China |
+| ZHANG Anqi| Nanking University | Aspects, Event Semantics | Nanjing, China |
+| SUN Yenan | The Chinese University of Hong Kong | Aspects, Adjectives, Degree Semantics | Hong Kong, China |
+| LIU Mingming | Tsinghua University | Quantification, Adverbs, Exhaustification | Beijing, China |
+| HE YUyin | Beijing Language and Culture University | Tense, Finiteness | Beijing, China | 
+| LI Xuping | Zhejiang University | Classifiers, Count-Mass distinction, Measurement | Hangzhou, China | 
+| FENG Yuli | Fudan University | Quantification, Experimental Semantics | Shanghai, China |
+| LUO Zhuosi | Beijing Foreign Studies University | Causation, Modality, Argument Structure | Beijing, China | 
+| CAO Yaqing| University of California Santa Cruz | Negation, Modality | Santa Cruz, USA |
+| HAO Qi| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |

@@ -90,7 +90,7 @@ Abstract: It is widely assumed that Mandarin has two disjunctors huozhe and hais
 Speaker: QIU Minghui (Zhejiang University) & [LI Xuping](https://person.zju.edu.cn/xp#0) (Zhejiang University) <br>
 Topic: Mandarin DUO
 
-## Institutions and their acronyms 
+## Our community 
 
 | Name| Institution      | Speciality | Location     |
 | :---: | :---:        |    :----:   |    :---:      |

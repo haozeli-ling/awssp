@@ -98,7 +98,7 @@ Topic: Mandarin DUO
 | [ZHANG Linmin (张琳敏)](https://sites.google.com/site/zhanglinmin/)|  New York University Shanghai   | Comparatives, Adjectives, Degree Semantics | Shanghai, China      |
 | [LI Haoze (李昊泽)](https://haozeli-ling.github.io/haozeli/)| Nanyang Technological University | Questions, Focus, Dynamic Semantics | Singapore |
 | [ZHANG Anqi (张安琪)](https://anqizhanglinguistics.github.io/) | Nanking University | Aspects, Event Semantics | Nanjing, China |
-| [SUN Yenan (孙叶楠)](https://yenan09.github.io/) | The Chinese University of Hong Kong | Aspects, Adjectives, Degree Semantics | Hong Kong, China |
+| [SUN Yenan (孙叶楠)](https://yenan09.github.io/) | The Chinese University of Hong Kong | Aspects, Adjectives, Degree Semantics | Hong Kong |
 | [LIU Mingming (刘明明)](https://markliu02.github.io/) | Tsinghua University | Quantification, Adverbs, Exhaustification | Beijing, China |
 | [HE YUyin (何雨殷)](https://yuyinhe.wordpress.com/) | Beijing Language and Culture University | Tense, Finiteness | Beijing, China | 
 | [LI Xuping (李旭平)](https://person.zju.edu.cn/xp#0) | Zhejiang University | Classifiers, Count-Mass distinction, Measurement | Hangzhou, China | 
@@ -107,3 +107,4 @@ Topic: Mandarin DUO
 | [LAW Jess (罗海琦)](https://people.ucsc.edu/~jlaw5/)| University of California Santa Cruz | Distributivity, Sentence-Final Particles, Passives, Experimental Semantics | Santa Cruz, USA |
 | [CAO Yaqing (曹亚晴)](https://ycao.sites.ucsc.edu/)| University of California Santa Cruz | Negation, Modality | Santa Cruz, USA |
 | HAO Qi (郝琦)| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |
+| [CHEN Yi Hsun (陈奕勋)](https://www.researchgate.net/profile/Chen-Hsun) | National Central University | Measurement, Comparatives, Quantification, Degree Semantics | Taipei |

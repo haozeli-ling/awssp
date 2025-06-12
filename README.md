@@ -97,7 +97,7 @@ Topic: Mandarin DUO
 | [XU Beibei (徐贝贝)](http://www.billyxu83.com/)  |  Huazhong Agricultural University    | Bias, Modality | Wuhan, China   |
 | [ZHANG Linmin (张琳敏)](https://sites.google.com/site/zhanglinmin/)|  New York University Shanghai   | Comparatives, Adjectives, Degree Semantics | Shanghai, China      |
 | [LI Haoze (李昊泽)](https://haozeli-ling.github.io/haozeli/)| Nanyang Technological University | Questions, Focus, Dynamic Semantics | Singapore |
-| [ZHANG Anqi (张安琪)](https://anqizhanglinguistics.github.io/) | Nanking University | Aspects, Event Semantics | Nanjing, China |
+| [ZHANG Anqi (张安琪)](https://anqizhanglinguistics.github.io/) | Nanjing University | Aspects, Event Semantics | Nanjing, China |
 | [SUN Yenan (孙叶楠)](https://yenan09.github.io/) | The Chinese University of Hong Kong | Aspects, Adjectives, Degree Semantics | Hong Kong |
 | [LIU Mingming (刘明明)](https://markliu02.github.io/) | Tsinghua University | Quantification, Adverbs, Exhaustification | Beijing, China |
 | [HE YUyin (何雨殷)](https://yuyinhe.wordpress.com/) | Beijing Language and Culture University | Tense, Finiteness | Beijing, China | 

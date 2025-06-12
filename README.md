@@ -94,15 +94,15 @@ Topic: Mandarin DUO
 
 | Name| Institution      | Speciality | Location     |
 | :---: | :---:        |    :----:   |    :---:      |
-| XU Beibei  |  Huazhong Agricultural University    | Bias, Modality | Wuhan, China   |
-| ZHANG Linmin|  New York University Shanghai   | Comparatives, Adjectives, Degree Semantics | Shanghai, China      |
-| LI Haoze| Nanyang Technological University | Questions, Focus, Dynamic Semantics | Singapore |
-| ZHANG Anqi| Nanking University | Aspects, Event Semantics | Nanjing, China |
-| SUN Yenan | The Chinese University of Hong Kong | Aspects, Adjectives, Degree Semantics | Hong Kong, China |
-| LIU Mingming | Tsinghua University | Quantification, Adverbs, Exhaustification | Beijing, China |
-| HE YUyin | Beijing Language and Culture University | Tense, Finiteness | Beijing, China | 
-| LI Xuping | Zhejiang University | Classifiers, Count-Mass distinction, Measurement | Hangzhou, China | 
-| FENG Yuli | Fudan University | Quantification, Experimental Semantics | Shanghai, China |
-| LUO Zhuosi | Beijing Foreign Studies University | Causation, Modality, Argument Structure | Beijing, China | 
-| CAO Yaqing| University of California Santa Cruz | Negation, Modality | Santa Cruz, USA |
-| HAO Qi| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |
+| [XU Beibei (徐贝贝)](http://www.billyxu83.com/)  |  Huazhong Agricultural University    | Bias, Modality | Wuhan, China   |
+| [ZHANG Linmin (张琳敏)](https://sites.google.com/site/zhanglinmin/)|  New York University Shanghai   | Comparatives, Adjectives, Degree Semantics | Shanghai, China      |
+| [LI Haoze (李昊泽)](https://haozeli-ling.github.io/haozeli/)| Nanyang Technological University | Questions, Focus, Dynamic Semantics | Singapore |
+| [ZHANG Anqi (张安琪)](https://anqizhanglinguistics.github.io/) | Nanking University | Aspects, Event Semantics | Nanjing, China |
+| [SUN Yenan (孙叶楠)](https://yenan09.github.io/) | The Chinese University of Hong Kong | Aspects, Adjectives, Degree Semantics | Hong Kong, China |
+| [LIU Mingming (刘明明)](https://markliu02.github.io/) | Tsinghua University | Quantification, Adverbs, Exhaustification | Beijing, China |
+| [HE YUyin (何雨殷)](https://yuyinhe.wordpress.com/) | Beijing Language and Culture University | Tense, Finiteness | Beijing, China | 
+| [LI Xuping (李旭平)](https://person.zju.edu.cn/xp#0) | Zhejiang University | Classifiers, Count-Mass distinction, Measurement | Hangzhou, China | 
+| [FENG Yuli (冯予力)](https://www.researchgate.net/profile/Yuli-Feng) | Fudan University | Quantification, Experimental Semantics | Shanghai, China |
+| [LUO Zhuosi (罗卓思)](https://sites.google.com/georgetown.edu/zhuosi-luo/) | Beijing Foreign Studies University | Causation, Modality, Argument Structure | Beijing, China | 
+| [CAO Yaqing (曹亚晴)](https://ycao.sites.ucsc.edu/)| University of California Santa Cruz | Negation, Modality | Santa Cruz, USA |
+| HAO Qi (郝琦)| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |

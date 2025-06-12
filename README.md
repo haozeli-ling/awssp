@@ -104,7 +104,7 @@ Topic: Mandarin DUO
 | [LI Xuping (李旭平)](https://person.zju.edu.cn/xp#0) | Zhejiang University | Classifiers, Count-Mass distinction, Measurement | Hangzhou, China | 
 | [FENG Yuli (冯予力)](https://www.researchgate.net/profile/Yuli-Feng) | Fudan University | Quantification, Experimental Semantics | Shanghai, China |
 | [LUO Zhuosi (罗卓思)](https://sites.google.com/georgetown.edu/zhuosi-luo/) | Beijing Foreign Studies University | Causation, Modality, Argument Structure | Beijing, China | 
-| [LAW Jess (罗海琦)](https://people.ucsc.edu/~jlaw5/)| University of California Santa Cruz | Distributivity, Sentence-Final Particles, Passives, Experimental Semantics | Santa Cruz, USA |
+| [LAW Jess (罗海琪)](https://people.ucsc.edu/~jlaw5/)| University of California Santa Cruz | Distributivity, Sentence-Final Particles, Passives, Experimental Semantics | Santa Cruz, USA |
 | [CAO Yaqing (曹亚晴)](https://ycao.sites.ucsc.edu/)| University of California Santa Cruz | Negation, Modality | Santa Cruz, USA |
 | HAO Qi (郝琦)| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |
 | [CHEN Yi Hsun (陈奕勋)](https://www.researchgate.net/profile/Chen-Hsun) | National Central University | Measurement, Comparatives, Quantification, Degree Semantics | Taipei |

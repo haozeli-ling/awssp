@@ -94,7 +94,7 @@ Topic: Mandarin DUO
 
 | Name| Institution      | Speciality | Location     |
 | :---: | :---:        |    :----:   |    :---:      |
-| [XU Beibei (徐贝贝)](http://www.billyxu83.com/)  |  Huazhong Agricultural University    | Bias, Modality | Wuhan, China   |
+| [XU Beibei (徐贝贝)](http://www.billyxu83.com/)  |  Huazhong Agricultural University    | Bias, Modality, Rhetorical Questions | Wuhan, China   |
 | [ZHANG Linmin (张琳敏)](https://sites.google.com/site/zhanglinmin/)|  New York University Shanghai   | Comparatives, Adjectives, Degree Semantics | Shanghai, China      |
 | [LI Haoze (李昊泽)](https://haozeli-ling.github.io/haozeli/)| Nanyang Technological University | Questions, Focus, Dynamic Semantics | Singapore |
 | [ZHANG Anqi (张安琪)](https://anqizhanglinguistics.github.io/) | Nanjing University | Aspects, Event Semantics | Nanjing, China |
@@ -108,3 +108,5 @@ Topic: Mandarin DUO
 | [CAO Yaqing (曹亚晴)](https://ycao.sites.ucsc.edu/)| University of California Santa Cruz | Negation, Modality | Santa Cruz, USA |
 | HAO Qi (郝琦)| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |
 | [CHEN Yi Hsun (陈奕勋)](https://www.researchgate.net/profile/Chen-Hsun) | National Central University | Measurement, Comparatives, Quantification, Degree Semantics | Taipei |
+| [YE Shumian (叶树冕)](https://www.shumianye.com/) | Peking University | Bias, Non-canonical Questions, Discourse Dynamics | Beijing, China |
+

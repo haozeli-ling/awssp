@@ -109,4 +109,4 @@ Topic: Mandarin DUO
 | HAO Qi (郝琦)| Central Normal University | Classifiers, Count-Mass distinction | Beijing, China |
 | [CHEN Yi Hsun (陈奕勋)](https://www.researchgate.net/profile/Chen-Hsun) | National Central University | Measurement, Comparatives, Quantification, Degree Semantics | Taipei |
 | [YE Shumian (叶树冕)](https://www.shumianye.com/) | Peking University | Bias, Non-canonical Questions, Discourse Dynamics | Beijing, China |
-
+| [ZHU Ziling (朱紫菱)](https://sites.google.com/view/zhuziling/home?authuser=0) | Georg-August-Universität Göttingen | Factivity, Presupposition, Attitude verbs, Experimental Semantics | Germany |
